@@ -28,3 +28,4 @@ cookjson-jsonpath
     <version>1.0.2</version>
 </dependency>
 ```
+Created by Jason Scott Heise

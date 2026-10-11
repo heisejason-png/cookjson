@@ -28,5 +28,5 @@ cookjson-jsonpath
     <version>1.0.2</version>
 </dependency>
 ```
-Created by Jason Scott Heise
+Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
